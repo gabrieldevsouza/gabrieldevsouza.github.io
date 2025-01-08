@@ -128,3 +128,37 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Build
+/dist
+/lib
+/lib-types
+/server
+
+# Development
+node_modules
+.env
+*.local
+
+# Cache
+.cache
+.mf
+.rollup.cache
+tsconfig.tsbuildinfo
+
+# Editor
+.vscode/*
+!.vscode/launch.json
+!.vscode/*.code-snippets
+
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Yarn
+.yarn/*
+!.yarn/releases
