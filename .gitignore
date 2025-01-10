@@ -162,3 +162,12 @@ tsconfig.tsbuildinfo
 # Yarn
 .yarn/*
 !.yarn/releases
+
+# Netlify
+.netlify
+
+##### Ignore environment variables
+# Environment files
+.env
+.env.*
+!.env.example
