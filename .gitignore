@@ -165,3 +165,9 @@ tsconfig.tsbuildinfo
 
 # Netlify
 .netlify
+
+##### Ignore environment variables
+# Environment files
+.env
+.env.*
+!.env.example
