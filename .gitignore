@@ -162,3 +162,6 @@ tsconfig.tsbuildinfo
 # Yarn
 .yarn/*
 !.yarn/releases
+
+# Netlify
+.netlify
