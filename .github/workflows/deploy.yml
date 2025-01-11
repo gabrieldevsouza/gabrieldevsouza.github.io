@@ -1,10 +1,13 @@
 name: Deploy Qwik Site
 on:
   push:
-    branches: [ "githubpages" ]
+    branches: [ "main" ]
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write    # <-- Key line to allow pushing to gh-pages
     steps:
       - uses: actions/checkout@v3
 
