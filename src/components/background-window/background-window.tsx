@@ -18,8 +18,7 @@ export const BackgroundWindow = component$(() => {
 		<img
 			width={1920}
 			height={1080}
-			src="../public/test-1080p-1.png"
-			alt="background"
+			src="/imgs/test-1080p-1.png"
 			class="w-full h-full"
 		/>
 	</div>
