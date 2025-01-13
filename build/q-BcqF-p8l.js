@@ -1,0 +1,1 @@
+import{d as l}from"./q-lNDDqrzM.js";const s=()=>l("div",null,{class:"   fixed    inset-0 /* ensures top-0, right-0, bottom-0, left-0 */   w-full   h-full  z-[-1]  bg-slate-600     pointer-events-none   opacity-50  "},l("img",null,{width:1920,height:1080,src:"../public/test-1080p-1.png",alt:"background",class:"w-full h-full"},null,3,null),3,"h3_0");export{s as s_WDwcpq0GviA};

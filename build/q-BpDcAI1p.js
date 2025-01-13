@@ -1,0 +1,1 @@
+import{d as l}from"./q-lNDDqrzM.js";const n=()=>l("div",null,{class:"    absolute    top-0 left-0    w-full    h-full    z-[-1]    pointer-events-none    opacity-50   "},l("img",null,{width:1920,height:1080,src:"../public/test-1080p-2.jpg",alt:"background",class:"   w-full   h-full  "},null,3,null),3,"2D_0");export{n as s_X0lgn5dhhhc};

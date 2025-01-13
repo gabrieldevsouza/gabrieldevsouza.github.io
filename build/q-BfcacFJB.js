@@ -1,1 +1,0 @@
-import{k as n,d as l,F as e}from"./q-lNDDqrzM.js";const r=()=>n(e,{children:[l("h1",null,{class:"text-3xl"},"Hello World! 👋",3,null),l("div",null,null,["I'm Gabriel de Souza.",l("br",null,null,null,3,null),"Welcome to my website. Still working on it!"],3,null)]},3,"i8_0");export{r as s_B0lqk5IDDy4};
