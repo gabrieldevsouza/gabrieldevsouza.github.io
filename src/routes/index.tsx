@@ -9,17 +9,247 @@ export default component$(() => {
         I'm Gabriel de Souza.
         <br />
         Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
+        <br />
+        Welcome to my website. Still working on it!
       </div>
     </>
   );
 });
 
 export const head: DocumentHead = {
-  title: "Welcome to Qwik",
+  title: "Gabriel de Souza - Computer Scientist, Software Engineer",
   meta: [
     {
-      name: "description",
-      content: "Qwik site description",
+      name: "Gabriel de Souza",
+      content: "Computer Scientist, Software Engineer",
     },
   ],
 };
