@@ -1,7 +1,6 @@
 import { component$, Slot } from "@builder.io/qwik";
 import type { RequestHandler } from "@builder.io/qwik-city";
 
-import { SiteBackground } from "~/components/site-background/site-background";
 import { BackgroundWindow } from "~/components/background-window/background-window";
 import { BackgroundPage } from "~/components/background-page/background-page";
 
